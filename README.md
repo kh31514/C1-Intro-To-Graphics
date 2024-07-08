@@ -6,7 +6,7 @@
 This project makes use of AniGraph, a package built on React and Three.js, to render a 2D customizable flower garden.
 
 ## Installation
-With [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed, run inside the home directory  
+With [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed, run the following inside the home directory  
 ```
 npx serve
 ```
